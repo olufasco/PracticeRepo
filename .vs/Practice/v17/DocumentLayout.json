@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\worksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\worksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\addn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\addn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|c:\\users\\user\\source\\repos\\practice\\practice\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE253A7-1FBF-4524-AC28-31DF2723A293}|Practice\\Practice.csproj|solutionrelative:practice\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,34 +93,67 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewClass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\NewClass.cs",
+              "RelativeDocumentMoniker": "Practice\\NewClass.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\NewClass.cs",
+              "RelativeToolTip": "Practice\\NewClass.cs",
+              "ViewState": "AgIAACUAAABAfxFASKEhwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:25:35.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddN.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\AddN.cs",
+              "RelativeDocumentMoniker": "Practice\\AddN.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\AddN.cs",
+              "RelativeToolTip": "Practice\\AddN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:53:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\Solution.cs",
               "RelativeDocumentMoniker": "Practice\\Solution.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\Solution.cs",
               "RelativeToolTip": "Practice\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T21:15:56.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Roman.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\Roman.cs",
               "RelativeDocumentMoniker": "Practice\\Roman.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\Roman.cs",
               "RelativeToolTip": "Practice\\Roman.cs",
-              "ViewState": "AgIAAAEAAACwYGVH+oEvwCcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:29:01.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T16:29:01.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WorkSheet.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\WorkSheet.cs",
               "RelativeDocumentMoniker": "Practice\\WorkSheet.cs",
@@ -120,7 +161,8 @@
               "RelativeToolTip": "Practice\\WorkSheet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:32:28.962Z"
+              "WhenOpened": "2025-10-30T17:32:28.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +172,7 @@
               "RelativeDocumentMoniker": "Practice\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Practice\\Practice\\Program.cs",
               "RelativeToolTip": "Practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T14:28:05.09Z",
               "EditorCaption": ""
