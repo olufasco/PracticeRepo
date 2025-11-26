@@ -36,7 +36,6 @@ public class Roman
                 n -= mapping.value;
             }
         }
-
         return result.ToString(); 
     }
 }
