@@ -49,7 +49,63 @@ namespace Practice
     {
         public static int Bigger(int  a, int b)
         {
-         return  a > b? a : b;
+         List <int> intList = new List <int> ();
+            intList.Add(a);
+            intList.Add(b);
+            int [] result = intList.ToArray();
+            return result.Max();
+        }
+    }
+    internal class Lmao
+    {
+        public static int NameLength(string fasco, char n)
+        {
+            Console.Write($"The index of {n} is: ");
+            return fasco.Contains(n) ? fasco.IndexOf(n) : -2;
+        }
+    }
+    internal class Friday
+    {
+        public static int A(int a)
+        {
+            return (a + 1);
+        }
+    }
+
+    public class Today
+    {
+        public static List<int>AddTwoList(List<int> listOne, List<int> listTwo)
+        {
+            List<int> resultList = new List<int>();
+            foreach (int num in listOne)
+            {
+                if(!resultList.Contains(num))
+                    resultList.Add(num);
+            }
+            foreach(int num in listTwo)
+            {
+                if (!resultList.Contains(num))
+                    resultList.Add(num);
+            }
+            return resultList;
+        }
+
+    }
+
+    internal class Today2
+    {
+        public static List<int>AddTwoNewList(List<int>newListA, List<int> newListB)
+        {
+            var finalList = newListA.Union(newListB);
+            return finalList.ToList();
+        }
+    }
+
+    public class Today3
+    {
+        public static string CharString(List<char>newCharList)
+        {
+            return string.Join("", newCharList);
         }
     }
 }
