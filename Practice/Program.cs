@@ -21,4 +21,5 @@ using System.ComponentModel;
 //    Console.WriteLine(item);
 //}
 //Console.WriteLine(Today3.CharString(new List<char> { 'e', 'w', 'u'}));
-Console.WriteLine(RomanInt.RomanToInt("ii"));
+//Console.WriteLine(RomanInt.RomanToInt("ii"));
+Console.WriteLine(Palindrome.IsPalindrome("noOn"));
